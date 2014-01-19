@@ -1,0 +1,69 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "1cb6dd65e4d2064699507631ddd266e9",
+    "packages": [
+        {
+            "name": "rfreebern/google-image-search",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rfreebern/google-image-search.git",
+                "reference": "b37a4e828394af92d98b35687359e3da08034aa2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/rfreebern/google-image-search/zipball/b37a4e828394af92d98b35687359e3da08034aa2",
+                "reference": "b37a4e828394af92d98b35687359e3da08034aa2",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "rfreebern": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CC0"
+            ],
+            "authors": [
+                {
+                    "name": "Ryan Freebern",
+                    "email": "ryan@freebern.org",
+                    "homepage": "http://rnf.me",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Simple PHP library for Google Image search.",
+            "keywords": [
+                "gif",
+                "google",
+                "images",
+                "jpeg",
+                "jpg",
+                "photos",
+                "search"
+            ],
+            "time": "2014-01-19 12:50:39"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

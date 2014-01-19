@@ -1,0 +1,15 @@
+{
+    "name": "rfreebern/minion-image-plugin",
+    "description": "Images for minion.",
+    "require": {
+        "rfreebern/google-image-search": "*"
+    },
+    "license": "CC0",
+    "authors": [
+        {
+            "name": "Ryan Freebern",
+            "email": "ryan@freebern.org"
+        }
+    ],
+    "minimum-stability": "dev"
+}
